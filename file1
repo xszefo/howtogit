@@ -2,4 +2,8 @@ First commit!
 Sec
 3rd
 branching
+<<<<<<< HEAD
 temp
+=======
+temp2
+>>>>>>> temp2
